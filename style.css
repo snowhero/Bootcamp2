@@ -1,0 +1,45 @@
+.hero-image{
+  height: 300px;
+  background-image: url('https://previews.123rf.com/images/flukesamed/flukesamed1404/flukesamed140400122/27372694-blaze-fire-flame-for-banner-background-Stock-Photo.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+}
+
+.click{
+  color: white;
+  background-color: rgba(0, 0, 0, 0.20);
+  position: relative;
+  top: 140px;
+  font-size: 24px;
+}
+
+.text-section{
+  text-align: justify;
+}
+
+.text-box{
+  height: 225px;
+  width: 33.33%;
+  padding: 10px;
+}
+
+.nest{
+  height: 300px;
+  padding: 0;
+}
+
+.left{
+  float: left;
+}
+
+.box{
+  height: 150px;
+  width: 100%;
+  background-color: orange;
+  margin-bottom: 10px;
+}
+
+.clear{
+  clear: left;
+}
